@@ -15,5 +15,10 @@ ul, ol {
 /* All Common Css End */
 
 /* Banner Section Start */
-
+#banner {
+    padding: 30px;
+    background: red;
+    text-align: center;
+    color: azure;
+}
 /* Banner Section End */
