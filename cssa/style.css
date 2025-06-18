@@ -1,0 +1,15 @@
+/* All Common Css Start */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+}
+ul, ol {
+    list-style: none;
+}
+
+/* All Common Css End */
