@@ -17,3 +17,9 @@ ul, ol {
 /* Banner Section Start */
 
 /* Banner Section End */
+
+/* footer  */
+footer{
+    background: red;
+    height: 30px;
+}
